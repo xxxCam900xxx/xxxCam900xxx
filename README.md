@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center" textalign="center">
+  Welcome to my GitHub Account! <br/> 
+  My Name is Cam.
+</h1>
 
-<!--
-**xxxCam900xxx/xxxCam900xxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Github Profile Stats
 
-Here are some ideas to get you started:
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xxxcam900xxx&theme=github_dark">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/xxxCam900xxx/">
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xxxCam900xxx&theme=github_dark" alt="xxxCam900xxx Langs :: Top Langs by repo" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xxxcam900xxx&theme=github_dark" alt="xxxCam900xxx Commits :: Top Langs by commit" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/xxxCam900xxx/">
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xxxCam900xxx&theme=github_dark" alt="xxxCam900xxx Langs :: Top Langs by repo" />
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xxxCam900xxx&theme=github_dark&utcOffset=8" alt="xxxCam900xxx Commits :: Top Langs by commit" />
+  </a>
+</p>
