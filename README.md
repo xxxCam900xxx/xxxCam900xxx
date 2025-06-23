@@ -56,15 +56,6 @@
 
 ---
 
-<details>
-<summary>📫 How to reach me</summary>
-
-- 💼 LinkedIn: [linkedin.com/in/came](https://www.linkedin.com/in/cameron-meile-34457b362/)
-
-</details>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xxxCam900xxx&label=Profile+Views&color=blueviolet&style=flat" alt="xxxCam900xxx" />
 </p>
